@@ -4,7 +4,7 @@
 A curated list of amazingly awesome Git tools, resources and shiny things.
 
 ## Contributing
-anyhtin gtest Pull requests on interesting tools/projects/resources are welcome.
+Make this slightly different - Pull requests on interesting tools/projects/resources are welcome.
 
 ## Table of Contents
 - [Awesome Git](#awesome-git)
